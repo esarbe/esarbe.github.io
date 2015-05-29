@@ -1,0 +1,128 @@
+body {
+  font-family: 'Roboto Th', sans-serif;
+  margin: 0;
+  background-color: #fff;
+  
+}
+
+section.level1 {
+  padding-left: 20pt;
+  padding-right: 20pt;
+}
+
+#intro {
+  font-size: larger;
+  background-color: #7A7A7A;
+  color: #efefef;
+  padding-top: 15pt;
+  padding-bottom: 1pt;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
+
+#intro ul {
+  margin-top: 5pt;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+h2 {
+  font-size: 19pt;
+}
+
+h3 {
+  font-size: 17pt;
+  margin-bottom: 8pt;
+}
+
+h4 {
+  font-size: 15pt;
+  margin-bottom: 4pt;
+}
+
+p {
+  margin-top: 4pt;
+}
+
+section.level2 {
+  margin-bottom: 31pt;
+}
+
+section.level1 {
+  margin-bottom: 42pt;
+}
+
+#intro h1 {
+  text-transform: lowercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#intro {
+  text-align: center;
+}
+
+#intro li {
+  display: inline-block;
+}
+
+#intro li + li:before {
+  content: "| "
+}
+
+#intro {
+  float: none;
+  width: 100%;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  display: inline;
+  margin-left: 0;
+}
+
+dd + dd:before {
+  content: " / ";
+}
+
+dt {
+  display: inline-block;
+}
+
+dd + dt:before {
+  content: ".";
+  display: block;
+}
+
+#technical-skills,
+#about-me {
+  width: 275pt;
+  float: left;
+  clear: both;
+  padding-right: 0;
+}
+
+#work-experience,
+#academic-education,
+#professional-education {
+  margin-left: 400pt;
+}
+
+#work-experience dt,
+#academic-education dt,
+#professional-education dt {
+  width: 150pt;
+  margin-left: -160pt;
+  text-align: right;
+  padding-right: 8pt;
+}
+
+
+

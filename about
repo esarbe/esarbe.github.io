@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section id="intro" class="level1">
+<h1>Raphael Bosshard</h1>
+<ul>
+<li>aspiring architect</li>
+<li>open-source enthusiast</li>
+<li>functional programming aficionado</li>
+<li>programming dan</li>
+<li>machine learning padawan</li>
+<li>clean-code connaiseur</li>
+</ul>
+</section>
+<section id="about-me" class="level1">
+<h1>About me</h1>
+<dl>
+<dt>Nationality</dt>
+<dd>Swiss
+</dd></dl><dl><dt>Academic degree</dt>
+<dd>eidg. dipl. Ingenieur FH Informationstechnologie
+</dd></dl><dl><dt>Languages</dt>
+<dd>excellent German
+</dd>
+<dd>proficient English
+</dd>
+<dd>lamentable French
+</dd></dl><dl><dt>Email</dt>
+<dd>raphael.bosshard@gmail.com
+</dd></dl><dl><dt>Mobile</dt>
+<dd>0041 (0)78 617 35 27
+</dd>
+</dl>
+</section>
+<section id="technical-skills" class="level1">
+<h1>Technical skills</h1>
+<dl>
+<dt>Programming languages with high proficiency</dt>
+<dd>Scala
+</dd>
+<dd>Java
+</dd>
+<dd>JavaScript
+</dd></dl><dl><dt>Programming languages with some knowledge</dt>
+<dd>Python
+</dd>
+<dd>Ruby
+</dd>
+<dd>Bash
+</dd>
+<dd>C#
+</dd>
+<dd>C
+</dd>
+<dd>Go
+</dd>
+<dd>PHP
+</dd>
+<dd>Pascal
+</dd></dl><dl><dt>Concepts I''ve learned and made use of</dt>
+<dd>imperative programming
+</dd>
+<dd>functional programming
+</dd>
+<dd>object-oriented programming
+</dd>
+<dd>actor-driven concurrency
+</dd>
+<dd>multi-threading
+</dd>
+<dd>design patterns
+</dd>
+<dd>software architectures
+</dd>
+<dd>machine learning
+</dd>
+<dd>test-driven development
+</dd></dl><dl><dt>Operating systems I commonly use</dt>
+<dd>GNU+Linux
+</dd>
+<dd>Android
+</dd>
+<dd>Windows
+</dd>
+</dl>
+</section>
+<section id="work-experience" class="level1">
+<h1>Work experience</h1>
+<section id="january-2011-today" class="level2">
+<h2>January 2011 – today</h2>
+<dl>
+<dt>Employer</dt>
+<dd>IMIS Group AG / IMISnext AG
+</dd></dl><dl><dt>Job description</dt>
+<dd>Software engineer / Software architect
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>design and implementation of e-business web platforms
+</dd>
+<dd>design and implementation of core libraries used in various projects
+</dd>
+<dd>requirements specification and use-case design
+</dd>
+<dd>creation of a unified product out of several independent customer project
+</dd>
+<dd>mentoring of junior programmers
+</dd></dl><dl><dt>Technologies</dt>
+<dd>Scala and Play Framework
+</dd>
+<dd>JavaScript
+</dd>
+<dd>Git
+</dd>
+<dd>Java
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>HTML + CSS
+</dd>
+<dd>Python
+</dd>
+<dd>Bash
+</dd>
+<dd>Tapestry
+</dd>
+<dd>Docker
+</dd>
+<dd>Maven
+</dd>
+<dd>SBT
+</dd>
+</dl>
+<section id="summary" class="level3">
+<h3>Summary</h3>
+<p>During my time with IMIS I graduated from programmer to senior programmer and had the chance to hone my skills as a software architect when I joined the architecture team. I assisted during conception and implementation of several e-business platforms for various large clients from many different industries and was also lead programmer and technical project leader for two of them. Mentoring our apprentices and junior programmers became a regular activity early on and I was involved in writing the training and learning programmes. I was also involved in the specification of use-cases. In my final function for IMIS AG I was lead programmer of a small team developing IMIS'' first dedicated e-commerce product.</p>
+</section>
+<section id="notable-projects" class="level3">
+<h3>Notable projects</h3>
+<section id="imisnext-base-shop" class="level4">
+<h4>IMISNext Base Shop</h4>
+<p>Consolidation of several code-bases from various customer projects into one single product. Included test-driven refactoring and working with legacy code, isolation and modularisation of existing code from previous project and implementing a REST server interface with accompanying web client.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>Scala
+</dd>
+<dd>Java
+</dd>
+<dd>Play Framework
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Docker
+</dd>
+<dd>Git
+</dd>
+<dd>Maven
+</dd>
+<dd>SBT
+</dd>
+<dd>JavaScript
+</dd>
+<dd>HTML + CSS
+</dd>
+</dl>
+</section>
+<section id="mmshop" class="level4">
+<h4>MMShop</h4>
+<p>Or first e-commerce project using the Play 2.0 Framework. I was responsible for migrating large parts of the existing Play 1.2 infrastructure to Play 2.0 and Scala as well as implementing much of the future IShop/Play core library. Included implementing a web user interface using HTML, CSS and JavaScript. This project made use of external infrastructure such as LDAP for account management. A special challenge was the coordination of order processing between multiple independent SAP/R3 instances.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>Scala
+</dd>
+<dd>Java
+</dd>
+<dd>Play Framework 2.0
+</dd>
+<dd>JavaScript
+</dd>
+<dd>JQuery
+</dd>
+<dd>Apache Webserver
+</dd>
+<dd>SAP JCO
+</dd>
+<dd>LDAP (Microsoft ActiveDirectory)
+</dd>
+<dd>Git
+</dd>
+<dd>GNU+Linux
+</dd>
+</dl>
+</section>
+<section id="bbshop" class="level4">
+<h4>BBShop</h4>
+<p>Our first e-commerce project using the Play Framework. I was involved in creating the Play infrastructure, writing the ERP connection using SAP JCO and implementing the user interface using HTML, CSS and JavaScript.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>Java
+</dd>
+<dd>Play Framework 1.2
+</dd>
+<dd>Web services
+</dd>
+<dd>Apache Webserver
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>JavaScript
+</dd>
+<dd>Git
+</dd>
+</dl>
+</section>
+<section id="ishop-architectural-evaluation" class="level4">
+<h4>IShop Architectural Evaluation</h4>
+<p>When it became obvious that Tapestry 4 wasn''t up to the task anymore we started evaluating several possible replacement candidates. We defined a minimal feature set and implemented two prototypes, one for each of the final candidates (Wicket and Play Framework). The final evaluation resulted in the adoption of the Play Framework for future customer projects.</p>
+<dl>
+<dt>Technolgies used</dt>
+<dd>Play Framework 1.2
+</dd>
+<dd>Java
+</dd>
+<dd>JavaScript
+</dd>
+<dd>Apache Webserver
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Git
+</dd>
+</dl>
+</section>
+</section>
+</section>
+<section id="april-2010-december-2010" class="level2">
+<h2>April 2010 – December 2010</h2>
+<dl>
+<dt>Employer</dt>
+<dd>freelancing, Frauenfeld (CH)
+</dd></dl><dl><dt>Job description</dt>
+<dd>Software engineer / Consultant
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>design and initial implementation of an account management tool
+</dd>
+<dd>e-business and open-source consulting
+</dd>
+<dd>mentoring of junior programmer
+</dd>
+<dd>accounting and project management
+</dd>
+<dd>design and implementation of web application
+</dd></dl><dl><dt>Technologies</dt>
+<dd>JavaScript
+</dd>
+<dd>Ruby on Rails
+</dd>
+<dd>Git
+</dd>
+<dd>HTML + CSS
+</dd>
+<dd>C#
+</dd>
+<dd>Asterisk
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Bash
+</dd>
+</dl>
+<section id="summary-1" class="level3">
+<h3>Summary</h3>
+<p>While freelancing I provided e-business and open-source consulting for several small enterprises and sole proprietorships. I evaluated and customized several open-source CMSs, maintained server infrastructure and implemented a web-based recipe tool using Ruby on Rails. For my final job with a network support company I designed and provided the initial implementation of a network account management tool with a script-able plug-in interface. Mentoring a junior programmer was also one of my responsibilities.</p>
+</section>
+<section id="notable-projects-1" class="level3">
+<h3>Notable projects</h3>
+<section id="netmin" class="level4">
+<h4>Netmin</h4>
+<p>A network services account management tool with script-able plug-in interface. Allowed for the bulk creation of network services accounts such as email, personal web page and LDAP account from database records. Included script-able interface for creation and modification of service accounts. I was also tasked with mentoring an apprentice for further maintenance of the tool.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>C#
+</dd>
+<dd>MySQL
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>sendmail
+</dd>
+<dd>OpenLDAP
+</dd>
+<dd>Apache
+</dd>
+</dl>
+</section>
+</section>
+</section>
+<section id="august-2007-june-2010" class="level2">
+<h2>August 2007 – June 2010</h2>
+<dl>
+<dt>Employer</dt>
+<dd>Benmark AG, Zürich (CH)
+</dd></dl><dl><dt>Job description</dt>
+<dd>Software engineer / Consultant
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>consulting and requirements specification
+</dd>
+<dd>design and implementation of extensions and work-flows for EMC2 Documentum
+</dd>
+<dd>maintenance of network infrastructure for the Zürich-based office
+</dd>
+<dd>design and implementation of a meta-data extension interface for long-term archiving of various data
+</dd></dl><dl><dt>Technologies</dt>
+<dd>Java
+</dd>
+<dd>EMC2 Documentum
+</dd>
+<dd>Asterisk
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Bash
+</dd>
+</dl>
+<section id="summary-2" class="level3">
+<h3>Summary</h3>
+<p>My first software engineering employment after graduation from university was with Benmark AG where I started as a junior programmer and gained my first experience in software engineering. I was immediately tasked with implementing a print approval work-flow for a printing company involving intensive customer contact. In other projects a customer from the banking sector I continued this regular customer contact, designed and implemented work-flows, provided customer support and training and helped with requirements specification. Towards the end of my stay with Benmark AG I was responsible for the infrastructure of the office Zürich and for the migration of several ten million customer communication records for an insurance company.</p>
+</section>
+<section id="notable-projects-2" class="level3">
+<h3>Notable projects</h3>
+<section id="can-migration" class="level4">
+<h4>CAN Migration</h4>
+<p>Migration of several ten million customer communication records for an insurance company from Saperion ECM to EMC2 Documentum. Because of performance requirements several rounds of optimizations were necessary, resulting in a highly parallelized import process. The project required customer interaction and on-site support.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>Saperion ECM
+</dd>
+<dd>EMC2 Documentum
+</dd>
+<dd>JBoss
+</dd>
+<dd>Oracle 9i
+</dd>
+<dd>GNU+Linux
+</dd>
+</dl>
+</section>
+<section id="lza" class="level4">
+<h4>LZA</h4>
+<p>Creating a prototype for the import of long-time archival data such as seismographic data into EMC2 Documentum. The prototype included a plugin interface to provide meta-data extraction from various file formats. For demonstration purposes a meta-data extraction plugin for Microsoft Office Word and the SEG-Y data format were implemented.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>EMC2 Documentum
+</dd>
+<dd>JBoss
+</dd>
+<dd>Apache
+</dd>
+<dd>Oracle 9i
+</dd>
+<dd>GNU+Linux
+</dd>
+</dl>
+</section>
+<section id="dcp-asset-managment" class="level4">
+<h4>DCP Asset Managment</h4>
+<p>Implementation of an approval work-flow for asset management and a synchronization extension to push data from a leading system into EMC2 Documentum using web services. The approved documents were then printed to PDF using XSL-FO. In the course of the project I had much customer contact, including end-user training.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>EMC2 Documentum
+</dd>
+<dd>JBoss
+</dd>
+<dd>Web services
+</dd>
+<dd>Oracle 9i
+</dd>
+<dd>GNU+Linux
+</dd>
+</dl>
+</section>
+</section>
+</section>
+<section id="november-2006-march-2007" class="level2">
+<h2>November 2006 – March 2007</h2>
+<dl>
+<dt>Employer</dt>
+<dd>Alaskan Husky Tours, Røros (NO)
+</dd></dl><dl><dt>Job Description</dt>
+<dd>Dog handler
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>training and care-taking of sled dogs
+</dd>
+<dd>instructing tourists
+</dd>
+<dd>guiding tours and ensuring well-being of tourists
+</dd>
+<dd>guiding sled dogs through race conditions
+</dd>
+</dl>
+<section id="summary-3" class="level3">
+<h3>Summary</h3>
+<p>After finishing my diploma thesis I went to Norway to work for Alaskan Husky Tours. In a team of three handlers took care of the approximately sixty Alaskan Huskies and was involved in their daily training routine. At Alaskan Husky Tours we regularly had tourists and guest visiting for short trips and long excursions (up to two days) with the dogs. I accompanied and later guided on these tours. I had the special honor of guiding one of the secondary racing teams on a small race lasting 100 km.</p>
+</section>
+<section id="notable-projects-3" class="level3">
+<h3>Notable projects</h3>
+<section id="lavvu-dihydrogen-monoxide-removal" class="level4">
+<h4>Lavvu dihydrogen monoxide removal</h4>
+<p>Ad-hoc project involving autonomous agents coordinating their behavior using message passing with the ultimate target of removing large quantities of solid state dihydrogen monoxide from a multidimensional structure composed of secondary xylem and poly-carbonate sheets. I was one of the autonomous agents.</p>
+<dl>
+<dt>Technologies used</dt>
+<dd>Shovels
+</dd>
+<dd>Snow shoes
+</dd>
+<dd>Fire
+</dd>
+</dl>
+</section>
+</section>
+</section>
+<section id="august-2001-october-2001" class="level2">
+<h2>August 2001 – October 2001</h2>
+<dl>
+<dt>Employer</dt>
+<dd>RanCon GmbH, Hanau (D)
+</dd></dl><dl><dt>Job description</dt>
+<dd>Software developer
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>implementation of web applications
+</dd>
+<dd>requirements specification
+</dd>
+<dd>database design
+</dd>
+<dd>evaluating open-source issue trackers
+</dd></dl><dl><dt>Technologies</dt>
+<dd>Perl
+</dd>
+<dd>Python
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Adabas D
+</dd>
+</dl>
+<section id="summary-4" class="level3">
+<h3>Summary</h3>
+<p>After completing my apprenticeship I went to Germany to work for Rancon, where I designed and implemented a database connection manager. I was also involved in the evaluation of several open-source issue trackers.</p>
+</section>
+</section>
+<section id="august-1997-august-2001" class="level2">
+<h2>August 1997 – August 2001</h2>
+<dl>
+<dt>Employer</dt>
+<dd>Reishauer AG, Wallisellen (CH)
+</dd></dl><dl><dt>Job description</dt>
+<dd>Apprentice
+</dd></dl><dl><dt>Responsibilities</dt>
+<dd>first-level support
+</dd>
+<dd>network and network infrastructure management
+</dd>
+<dd>implementation and maintenance of corporate website
+</dd></dl><dl><dt>Technologies</dt>
+<dd>Novell NetWare
+</dd>
+<dd>JavaScript
+</dd>
+<dd>HTML + CSS
+</dd>
+<dd>GNU+Linux
+</dd>
+<dd>Bash
+</dd>
+<dd>Ruby
+</dd>
+</dl>
+<section id="summary-5" class="level3">
+<h3>Summary</h3>
+<p>During my apprenticeship with Reisauer AG I learned the basics of software development, network management and customer support. I was responsible for the very first version of the company web presence and later instructed members of the marketing team on how to update the web presence. Throughout my apprenticeship I was tasked with 1st-level support, both for the company hot-line and for on-site customer support.</p>
+</section>
+</section>
+</section>
+<section id="academic-education" class="level1">
+<h1>Academic education</h1>
+<p>eidg. Dipl. Ing. FH Informationstechnologie</p>
+<p>Zürich University of Applied Sciences</p>
+<dl>
+<dt>Specialisation</dt>
+<dd>Fuzzy logic und neural networks
+</dd>
+<dd>Embedded systems
+</dd>
+<dd>Programming languages and compilers
+</dd></dl><dl><dt>Diploma Thesis</dt>
+<dd>Protein Analysis using Differential PTM Detection
+</dd>
+<dd>Design and implementation of a visualisation tool for a proprietary differential PTM detection algorithm.
+</dd>
+<dd>Gained a distinction by the Alumni ZHAW.
+</dd>
+</dl>
+</section>
+<section id="professional-education" class="level1">
+<h1>Professional education</h1>
+<section id="machine-learning-andrew-ng-coursera-ongoing" class="level2">
+<h2>Machine learning (Andrew Ng, Coursera, ongoing)</h2>
+<dl>
+<dt>Description</dt>
+<dd>Intermediate level course covering state-of-the-art classification and regression algorithms
+</dd></dl><dl><dt>Topics</dt>
+<dd>linear regression
+</dd>
+<dd>logistical regression
+</dd>
+<dd>regularization
+</dd>
+<dd>neural networks; representation and learning
+</dd>
+<dd>machine learning design
+</dd>
+<dd>support vector machines
+</dd>
+<dd>unsupervised learning
+</dd>
+<dd>dimensionality reduction
+</dd>
+<dd>anomaly detection
+</dd>
+<dd>recommender systems
+</dd>
+<dd>large scale machine learning
+</dd>
+</dl>
+</section>
+<section id="principles-of-reactive-programming-martin-odersky-roland-kuhn-erik-meijer-coursera-2014" class="level2">
+<h2>Principles of Reactive Programming (Martin Odersky / Roland Kuhn / Erik Meijer, Coursera, 2014)</h2>
+<dl>
+<dt>Description</dt>
+<dd>Advanced programming course teaching the principles of reactive programming
+</dd></dl><dl><dt>Topics</dt>
+<dd>event-driven programming
+</dd>
+<dd>scaling under load
+</dd>
+<dd>resilience and responsiveness in the presence of failures
+</dd>
+<dd>monads, futures, observables
+</dd>
+<dd>actor systems
+</dd>
+</dl>
+</section>
+<section id="functional-programming-principles-in-scala-martin-odersky-coursera-2012" class="level2">
+<h2>Functional Programming Principles in Scala (Martin Odersky, Coursera, 2012)</h2>
+<dl>
+<dt>Description</dt>
+<dd>Advanced undergraduate programming course covering functional programming using Scala
+</dd></dl><dl><dt>Topics</dt>
+<dd>functions as values
+</dd>
+<dd>recursion
+</dd>
+<dd>immutable and persistent data structures
+</dd>
+<dd>pattern matching
+</dd>
+<dd>higher-order functions
+</dd>
+<dd>lazy evaluation
+</dd>
+</dl>
+</section>
+<section id="introduction-to-artificial-intelligence-sebastian-thrun-peter-norvig-ai-class-2011" class="level2">
+<h2>Introduction to Artificial Intelligence (Sebastian Thrun / Peter Norvig, ai-class, 2011)</h2>
+<dl>
+<dt>Description</dt>
+<dd>Intermediate level course covering the fundamentals of artificial intelligence
+</dd></dl><dl><dt>Topics</dt>
+<dd>bayes networks
+</dd>
+<dd>machine learning
+</dd>
+<dd>logic and planning
+</dd>
+<dd>markov decision processes and reinforcement learning
+</dd>
+<dd>hidden markov models and filters
+</dd>
+<dd>adversarial and advanced planning
+</dd>
+<dd>image processing and computer vision
+</dd>
+<dd>robotics and robot motion planning
+</dd>
+<dd>natural language processing and information retrieval
+</dd>
+</dl>
+</section>
+</section>
+</body>
+</html>
